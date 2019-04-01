@@ -16,3 +16,4 @@ PaceJS para barra de loading
 Origamid.com
 Udacity.com
 udemy.com
+br.phptherightway.com
