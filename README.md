@@ -17,3 +17,4 @@
 - Udacity.com
 - udemy.com
 - br.phptherightway.com
+- lottiefiles.com/
