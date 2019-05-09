@@ -20,5 +20,11 @@
 - lottiefiles.com/
 - Awwwards.com
 - Ngrok
-- https://www.fullstackreact.com/30-days-of-react/
-- https://lyricstraining.com
+- fullstackreact.com/30-days-of-react/
+- lyricstraining.com
+- pt.khanacademy.org
+- codeanywhere.com
+- codetasty.com
+- https://my-json-server.typicode.com/
+- Medium.com
+- 
