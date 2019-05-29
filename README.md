@@ -27,4 +27,5 @@
 - codetasty.com
 - https://my-json-server.typicode.com/
 - Medium.com
-- 
+- https://onlinejpgtools.com/convert-jpg-to-grayscale - Conversor online para 8bit Grayscale
+- http://www.photoshoponline.net.br/ - Photoshop online
