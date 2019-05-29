@@ -30,3 +30,4 @@
 - https://onlinejpgtools.com/convert-jpg-to-grayscale - Conversor online para 8bit Grayscale
 - http://www.photoshoponline.net.br/ - Photoshop online
 - https://br.qr-code-generator.com/ - Gerador de QRcode
+- http://i18njs.com/
