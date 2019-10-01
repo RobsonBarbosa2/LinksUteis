@@ -31,3 +31,4 @@
 - http://www.photoshoponline.net.br/ - Photoshop online
 - https://br.qr-code-generator.com/ - Gerador de QRcode
 - http://i18njs.com/
+- NGROK (Túnel de conxão direta para mobile)
