@@ -1,7 +1,7 @@
 # LinksUteis
 
 
-- SightEngine.com \n
+- SightEngine.com 
 - Codepen.io
 - Coolors.co
 - Palleton.com
@@ -32,3 +32,5 @@
 - https://br.qr-code-generator.com/ - Gerador de QRcode
 - http://i18njs.com/
 - NGROK (Túnel de conxão direta para mobile)
+- alertify.js (https://alertifyjs.com/examples.html)
+- https://tutorialzine.com/
