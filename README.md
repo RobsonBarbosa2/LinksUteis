@@ -35,3 +35,4 @@
 - alertify.js (https://alertifyjs.com/examples.html)
 - https://tutorialzine.com/
 - https://css-tricks.com/
+- https://www.newline.co/
