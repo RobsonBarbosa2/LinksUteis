@@ -31,7 +31,6 @@
 - http://www.photoshoponline.net.br/ - Photoshop online
 - https://br.qr-code-generator.com/ - Gerador de QRcode
 - http://i18njs.com/
-- NGROK (Túnel de conxão direta para mobile)
 - alertify.js (https://alertifyjs.com/examples.html)
 - https://tutorialzine.com/
 - https://css-tricks.com/
