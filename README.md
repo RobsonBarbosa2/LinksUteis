@@ -19,6 +19,8 @@
 - Palleton.com
 - materializecss.com
 - PaceJS para barra de loading
+- https://tutorialzine.com/
+- https://css-tricks.com/
 ```
 
 ## Cursos
@@ -35,19 +37,28 @@
 - lyricstraining.com
 ```
 
-
+## Back End
+```
 - br.phptherightway.com
-- lottiefiles.com/
+```
+
+## Utilitários
+```
 - Ngrok
-- pt.khanacademy.org
 - codeanywhere.com
 - codetasty.com
-- https://my-json-server.typicode.com/
 - www.Medium.com
-- https://onlinejpgtools.com/convert-jpg-to-grayscale - Conversor online para 8bit Grayscale
 - http://www.photoshoponline.net.br/ - Photoshop online
 - https://br.qr-code-generator.com/ - Gerador de QRcode
-- http://i18njs.com/
-- https://tutorialzine.com/
-- https://css-tricks.com/
+- https://onlinejpgtools.com/convert-jpg-to-grayscale - Conversor online para 8bit Grayscale
+- lottiefiles.com/
+- pt.khanacademy.org
+- https://my-json-server.typicode.com/
+- http://i18njs.com/ 
+```
+
+
+#Ebooks
+```
 - https://www.newline.co/
+```
