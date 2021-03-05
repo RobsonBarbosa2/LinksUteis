@@ -21,6 +21,8 @@
 - PaceJS para barra de loading
 - https://tutorialzine.com/
 - https://css-tricks.com/
+- storyset.com
+
 ```
 
 ## Cursos
@@ -55,6 +57,8 @@
 - pt.khanacademy.org
 - https://my-json-server.typicode.com/
 - http://i18njs.com/
+- storyset.com
+
 ```
 
 
